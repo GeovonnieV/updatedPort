@@ -1,12 +1,15 @@
 
 
 body {
-    background-image: url(images/concrete_seamless.png)  ;
+      background-image: url(https://cdn.hipwallpaper.com/i/68/99/NqAEPd.jpg)  ;  
+   
 }
 
  .container {
-     background: #ffffff;
-     margin-top: 30px;
+     background-image: url(data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwsHBgkIBw8RCgkGBgoPBQYFDRANDQUNFBEWFhQRExMYHCggGBolGxUVITEhJSkrLi4uFx8zODMsNygtLisBCgoKDQUFDg8FFSsZExkrKysrKystLSsrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIALQBGAMBIgACEQEDEQH/xAAXAAEBAQEAAAAAAAAAAAAAAAAAAgEH/8QAFRABAQAAAAAAAAAAAAAAAAAAABH/xAAYAQEBAQEBAAAAAAAAAAAAAAAAAgMBBP/EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oADAMBAAIRAxEAPwDjcIoelgmEUAmEUAmEUAmEUAmEUAmEUAmEUAmEUAmEUAmEUAmEUAmEUAmEUAmEUAmEUAmEUAmCmAqEVCOpqYRUIFTCKhAqYRUIFTCKhAqYRUIFTCKhAqYRUIFTCKhAqYRUIFTCKhAqYRUIFTCKhAqYRUIFTCKhAqYRUIFTCKhAqYKgFVCKhFIqYRUIFTCKhAqYRUIFTCKhAqYRUIFTCKhAqYRUIFTCKhAqYRUIFTCKhAqYRUIFTCKhAqYRUIFTCKhAqYRUIFTCKhAqYKgFVCLhFIqIRcIFRCLhAqIRcIFRCLhAqIRcIFRCLhAqIRcIFRCLhAqIRcIFRCLhAqIRcIFRCLhAqIRcIFRCLhAqIRcIFRCLhAqILgFVCLhFRFRCLhCFRCLhCFRCLhCFRCLhCFRCLhCFRCLhCFRCLhCFRCLhCFRCLhCFRCLhCFRCLhCFRCLhCFRCLhCFRCLhCFRCLhCFRCLhCFRBcYQq4RcIqM6iEXCEKiEXCEKiEXCEKiEXCEKiEXCEKiEXCEKiEXCEKiEXCEKiEXCEKiEXCEKiEXCEKiEXCEKiEXCEKiEXCEKiEXCEKiEXCEKiC4EKuEVCKjOphFQhCphFQhCphFQhCphFQhCphFQhCphFQhCphFQhCphFQhCphFQhCphFQhCphFQhCphFQhCphFQhCphFQhCphFQhCphFQhCpgqBCrhFQioiphFQhCphFQhCphFQhCphFQhCphFQhCphFQhCphFQhCphFQhCphFQhCphFQhCphFQhCphFQhCphFQhCphFQhCphFQhCphFQhCpgqBCrhFQikVMIqECphFQgVMIqECphFQgVMIqECphFQgVMIqECphFQgVMIqECphFQgVMIqECphFQgVMIqECphFQgVMIqECphFQgVMFQCqhFQikVMIqECphFQgVMIqECphFQgVMIqECphFQgVMIqECphFQgVMIqECphFQgVMIqECphFQgVMIqECphFQgVMIqECphFQgVMFRgVQqEdRUioQKkVCBUioQKkVCBUioQKkVCBUioQKkVCBUioQKkVCBUioQKkVCBUioQKkVCBUioQKkVCBUtbAK0B0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf/2Q==);
+     margin-top: 20px;
+     margin-bottom: 80px;
+     color: #ffffff;
  }
 
  img {
@@ -16,14 +19,14 @@ body {
  #name {
      font-size: 24px;
      padding: 40px;
-     background: #4aaaa5;
+     background-image: url(https://i.pinimg.com/originals/36/74/2a/36742a392b7d9508b649fb4a48d3e318.jpg);
      width: 300px;
-     color: #ffffff;
+     color: black;
  }
 
  h1 
  {
-     color: #4aaaa5;
+     color: #ffffff;
      
      
  }
@@ -34,3 +37,4 @@ body {
     border-top: 8px solid #4aaaa5;
     width: 100%;
 }
+
