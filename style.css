@@ -38,3 +38,7 @@ body {
     width: 100%;
 }
 
+.img-responsive{
+    width: 85%;
+    height: 80%;
+}
